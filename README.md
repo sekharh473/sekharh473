@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">  
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D5603AQGYIJusToM4TA/profile-displayphoto-scale_400_400/B56Zx_oF1hIAAg-/0/1771667745927?e=1773273600&v=beta&t=aXWyurfUtHkEeJZKeI47gdLwK2yUjBwJ7DwjOCzeLLU"> 
 
 ### 👨‍💻 About Me  
 I’m a passionate **Frontend Developer** focused on crafting seamless, responsive, and interactive user interfaces using **React.js, React Native, and Redux**.  
