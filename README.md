@@ -13,7 +13,7 @@ I’m a passionate **Frontend Developer** focused on crafting seamless, responsi
 I love translating design ideas into real-world applications with clean code and optimized performance.
 
 - 🔭 **Currently working on:** Full-stack web apps and React Native projects  
-- 🌱 **Currently learning:**  UI/UX Animation with Three.JS || CI/CD  || AWS || Human Life !
+- 🌱 **Currently learning:**  Three.JS || CI/CD  || AWS || Human Life !
 - 👯 **Looking to collaborate on:** React, React Native & Tailwind-based projects  
 - 💬 **Ask me about:** React, Redux, Axios, Tailwind, React Native  
 - 📄 **Know about my experiences:** [My Resume]([https://docs.google.com/document/d/1luNl60aEB6Wim6qVcfyRVSpY1cM1L3oB/edit?usp=sharing&ouid=117212124606175984815&rtpof=true&sd=true](https://drive.google.com/file/d/1wscKNVCfrTqUE5oDG_7LJUODxF0VqT9c/view?usp=sharing))  
