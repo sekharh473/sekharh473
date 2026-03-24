@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm **Himanshu Sekhar Samal**  
 *Frontend Developer | React & React Native Enthusiast from India*  
 
-📧 **Email:** [sekharh473@gmail.com](mailto:sekharh473@gmail.com)  
+📧 **Email:** [himanshusamal.2002@gmail.com](mailto:himanshusamal.2002@gmail.com)  
 📍 **Location:** Bhubaneswar, India  
 
 ---
