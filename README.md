@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm **Himanshu Sekhar Samal**  
-*Frontend Developer | React & React Native Enthusiast from India*  
+*Frontend Developer | React & React Native Developer from India*  
 
 📧 **Email:** [himanshusamal.2002@gmail.com](mailto:himanshusamal.2002@gmail.com)  
 📍 **Location:** Bhubaneswar, India  
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D5603AQGYIJusToM4TA/profile-displayphoto-scale_400_400/B56Zx_oF1hIAAg-/0/1771667745927?e=1773273600&v=beta&t=aXWyurfUtHkEeJZKeI47gdLwK2yUjBwJ7DwjOCzeLLU"> 
+<img align="right" alt="Himanshu_Image" width="200" src="https://media.licdn.com/dms/image/v2/D5603AQGYIJusToM4TA/profile-displayphoto-scale_200_200/B56Zx_oF1hIAAY-/0/1771667745927?e=1776902400&v=beta&t=2qyxB_wh2Vyz1sDDbTyXLsUWRH34nCa22FnD3MqiGDs"> 
 
 ### 👨‍💻 About Me  
 I’m a passionate **Frontend Developer** focused on crafting seamless, responsive, and interactive user interfaces using **React.js, React Native, and Redux**.  
